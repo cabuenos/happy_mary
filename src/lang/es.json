@@ -1,0 +1,7 @@
+{
+    "loginMessage" : "Ingresa a tu cuenta",
+    "userName" : "Usuario",
+    "password" : "Contraseña",
+    "forgotPassword" : "Olvido su contraseña?",
+    "singIn" : "Ingresar"
+}
